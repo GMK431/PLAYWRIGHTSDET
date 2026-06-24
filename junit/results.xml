@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="2.781681">
+<testsuite name="apiTesting\schemaValidations.spec.ts" timestamp="2026-06-23T11:03:39.729Z" hostname="chromium" tests="1" failures="0" skipped="0" time="1.819" errors="0">
+<testcase name="Validate JSON Scehma" classname="apiTesting\schemaValidations.spec.ts" time="1.819">
+<system-out>
+<![CDATA[{ firstName: [32m'John'[39m, lastName: [32m'Doe'[39m, city: [32m'San Jose'[39m, state: [32m'CA'[39m }
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>

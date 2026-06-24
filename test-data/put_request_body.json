@@ -1,0 +1,11 @@
+{
+    "firstname": "Deepya",
+    "lastname": "S",
+    "totalprice": 5000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-07-11",
+        "checkout": "2026-07-13"
+    },
+    "additionalneeds": "Breakfast"
+}

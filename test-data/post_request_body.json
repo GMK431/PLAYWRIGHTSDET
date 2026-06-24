@@ -1,0 +1,11 @@
+{
+    "firstname": "Dedeepya",
+    "lastname": "Siddabathuni",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2026-07-11",
+        "checkout": "2026-07-13"
+    },
+    "additionalneeds": "Breakfast"
+}
